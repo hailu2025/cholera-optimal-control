@@ -68,4 +68,4 @@ This code is provided for reproducibility of the manuscript results.
 For other uses, please contact the authors.
 
 VERSION:
-1.0 (December 2025)
+1.0 (January 2026)
